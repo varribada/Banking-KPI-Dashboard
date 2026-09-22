@@ -40,3 +40,9 @@ This project uses synthetic data and is intended to demonstrate Excel and analyt
 ## Next step
 
 Rebuild the analysis in Power BI, with interactive branch and customer-rating filters.
+
+## Dashboard Preview
+
+![Banking KPI Dashboard - Overview](Dashboard_1.png)
+
+![Banking KPI Dashboard - Detailed Analysis](Dashboard_2.png)
